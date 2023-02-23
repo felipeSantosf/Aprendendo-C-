@@ -1,0 +1,15 @@
+D:\Aprendendo_C#\source\repos\AprendendoCSharp\8 - Condicionais2\bin\Debug\net6.0\8 - Condicionais2.exe
+D:\Aprendendo_C#\source\repos\AprendendoCSharp\8 - Condicionais2\bin\Debug\net6.0\8 - Condicionais2.deps.json
+D:\Aprendendo_C#\source\repos\AprendendoCSharp\8 - Condicionais2\bin\Debug\net6.0\8 - Condicionais2.runtimeconfig.json
+D:\Aprendendo_C#\source\repos\AprendendoCSharp\8 - Condicionais2\bin\Debug\net6.0\8 - Condicionais2.dll
+D:\Aprendendo_C#\source\repos\AprendendoCSharp\8 - Condicionais2\bin\Debug\net6.0\8 - Condicionais2.pdb
+D:\Aprendendo_C#\source\repos\AprendendoCSharp\8 - Condicionais2\obj\Debug\net6.0\8 - Condicionais2.csproj.AssemblyReference.cache
+D:\Aprendendo_C#\source\repos\AprendendoCSharp\8 - Condicionais2\obj\Debug\net6.0\8 - Condicionais2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aprendendo_C#\source\repos\AprendendoCSharp\8 - Condicionais2\obj\Debug\net6.0\8 - Condicionais2.AssemblyInfoInputs.cache
+D:\Aprendendo_C#\source\repos\AprendendoCSharp\8 - Condicionais2\obj\Debug\net6.0\8 - Condicionais2.AssemblyInfo.cs
+D:\Aprendendo_C#\source\repos\AprendendoCSharp\8 - Condicionais2\obj\Debug\net6.0\8 - Condicionais2.csproj.CoreCompileInputs.cache
+D:\Aprendendo_C#\source\repos\AprendendoCSharp\8 - Condicionais2\obj\Debug\net6.0\8 - Condicionais2.dll
+D:\Aprendendo_C#\source\repos\AprendendoCSharp\8 - Condicionais2\obj\Debug\net6.0\refint\8 - Condicionais2.dll
+D:\Aprendendo_C#\source\repos\AprendendoCSharp\8 - Condicionais2\obj\Debug\net6.0\8 - Condicionais2.pdb
+D:\Aprendendo_C#\source\repos\AprendendoCSharp\8 - Condicionais2\obj\Debug\net6.0\8 - Condicionais2.genruntimeconfig.cache
+D:\Aprendendo_C#\source\repos\AprendendoCSharp\8 - Condicionais2\obj\Debug\net6.0\ref\8 - Condicionais2.dll

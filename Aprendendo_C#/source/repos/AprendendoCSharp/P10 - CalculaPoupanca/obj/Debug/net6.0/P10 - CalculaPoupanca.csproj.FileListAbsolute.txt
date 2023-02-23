@@ -1,0 +1,15 @@
+D:\Aprendendo_C#\source\repos\AprendendoCSharp\P10 - CalculaPoupanca\bin\Debug\net6.0\P10 - CalculaPoupanca.exe
+D:\Aprendendo_C#\source\repos\AprendendoCSharp\P10 - CalculaPoupanca\bin\Debug\net6.0\P10 - CalculaPoupanca.deps.json
+D:\Aprendendo_C#\source\repos\AprendendoCSharp\P10 - CalculaPoupanca\bin\Debug\net6.0\P10 - CalculaPoupanca.runtimeconfig.json
+D:\Aprendendo_C#\source\repos\AprendendoCSharp\P10 - CalculaPoupanca\bin\Debug\net6.0\P10 - CalculaPoupanca.dll
+D:\Aprendendo_C#\source\repos\AprendendoCSharp\P10 - CalculaPoupanca\bin\Debug\net6.0\P10 - CalculaPoupanca.pdb
+D:\Aprendendo_C#\source\repos\AprendendoCSharp\P10 - CalculaPoupanca\obj\Debug\net6.0\P10 - CalculaPoupanca.csproj.AssemblyReference.cache
+D:\Aprendendo_C#\source\repos\AprendendoCSharp\P10 - CalculaPoupanca\obj\Debug\net6.0\P10 - CalculaPoupanca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aprendendo_C#\source\repos\AprendendoCSharp\P10 - CalculaPoupanca\obj\Debug\net6.0\P10 - CalculaPoupanca.AssemblyInfoInputs.cache
+D:\Aprendendo_C#\source\repos\AprendendoCSharp\P10 - CalculaPoupanca\obj\Debug\net6.0\P10 - CalculaPoupanca.AssemblyInfo.cs
+D:\Aprendendo_C#\source\repos\AprendendoCSharp\P10 - CalculaPoupanca\obj\Debug\net6.0\P10 - CalculaPoupanca.csproj.CoreCompileInputs.cache
+D:\Aprendendo_C#\source\repos\AprendendoCSharp\P10 - CalculaPoupanca\obj\Debug\net6.0\P10 - CalculaPoupanca.dll
+D:\Aprendendo_C#\source\repos\AprendendoCSharp\P10 - CalculaPoupanca\obj\Debug\net6.0\refint\P10 - CalculaPoupanca.dll
+D:\Aprendendo_C#\source\repos\AprendendoCSharp\P10 - CalculaPoupanca\obj\Debug\net6.0\P10 - CalculaPoupanca.pdb
+D:\Aprendendo_C#\source\repos\AprendendoCSharp\P10 - CalculaPoupanca\obj\Debug\net6.0\P10 - CalculaPoupanca.genruntimeconfig.cache
+D:\Aprendendo_C#\source\repos\AprendendoCSharp\P10 - CalculaPoupanca\obj\Debug\net6.0\ref\P10 - CalculaPoupanca.dll
