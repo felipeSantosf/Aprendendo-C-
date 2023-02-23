@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AvancadoEmC#\\ArrayEMatriz\\P3 - ArrayEMatriz\\P3 - ArrayEMatriz.csproj",
+      "projectUniqueName": "D:\\C#\\AvancadoEmC#\\ArrayEMatriz\\P3 - ArrayEMatriz\\P3 - ArrayEMatriz.csproj",
       "projectName": "P3 - ArrayEMatriz",
-      "projectPath": "D:\\AvancadoEmC#\\ArrayEMatriz\\P3 - ArrayEMatriz\\P3 - ArrayEMatriz.csproj",
+      "projectPath": "D:\\C#\\AvancadoEmC#\\ArrayEMatriz\\P3 - ArrayEMatriz\\P3 - ArrayEMatriz.csproj",
       "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-      "outputPath": "D:\\AvancadoEmC#\\ArrayEMatriz\\P3 - ArrayEMatriz\\obj\\",
+      "outputPath": "D:\\C#\\AvancadoEmC#\\ArrayEMatriz\\P3 - ArrayEMatriz\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
