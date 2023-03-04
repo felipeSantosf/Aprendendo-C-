@@ -1,0 +1,15 @@
+D:\C#\AvancadoEmC#\ArrayEMatriz\P42 - ArrayEMatriz\bin\Debug\net6.0\P42 - ArrayEMatriz.exe
+D:\C#\AvancadoEmC#\ArrayEMatriz\P42 - ArrayEMatriz\bin\Debug\net6.0\P42 - ArrayEMatriz.deps.json
+D:\C#\AvancadoEmC#\ArrayEMatriz\P42 - ArrayEMatriz\bin\Debug\net6.0\P42 - ArrayEMatriz.runtimeconfig.json
+D:\C#\AvancadoEmC#\ArrayEMatriz\P42 - ArrayEMatriz\bin\Debug\net6.0\P42 - ArrayEMatriz.dll
+D:\C#\AvancadoEmC#\ArrayEMatriz\P42 - ArrayEMatriz\bin\Debug\net6.0\P42 - ArrayEMatriz.pdb
+D:\C#\AvancadoEmC#\ArrayEMatriz\P42 - ArrayEMatriz\obj\Debug\net6.0\P42 - ArrayEMatriz.csproj.AssemblyReference.cache
+D:\C#\AvancadoEmC#\ArrayEMatriz\P42 - ArrayEMatriz\obj\Debug\net6.0\P42 - ArrayEMatriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\AvancadoEmC#\ArrayEMatriz\P42 - ArrayEMatriz\obj\Debug\net6.0\P42 - ArrayEMatriz.AssemblyInfoInputs.cache
+D:\C#\AvancadoEmC#\ArrayEMatriz\P42 - ArrayEMatriz\obj\Debug\net6.0\P42 - ArrayEMatriz.AssemblyInfo.cs
+D:\C#\AvancadoEmC#\ArrayEMatriz\P42 - ArrayEMatriz\obj\Debug\net6.0\P42 - ArrayEMatriz.csproj.CoreCompileInputs.cache
+D:\C#\AvancadoEmC#\ArrayEMatriz\P42 - ArrayEMatriz\obj\Debug\net6.0\P42 - ArrayEMatriz.dll
+D:\C#\AvancadoEmC#\ArrayEMatriz\P42 - ArrayEMatriz\obj\Debug\net6.0\refint\P42 - ArrayEMatriz.dll
+D:\C#\AvancadoEmC#\ArrayEMatriz\P42 - ArrayEMatriz\obj\Debug\net6.0\P42 - ArrayEMatriz.pdb
+D:\C#\AvancadoEmC#\ArrayEMatriz\P42 - ArrayEMatriz\obj\Debug\net6.0\P42 - ArrayEMatriz.genruntimeconfig.cache
+D:\C#\AvancadoEmC#\ArrayEMatriz\P42 - ArrayEMatriz\obj\Debug\net6.0\ref\P42 - ArrayEMatriz.dll

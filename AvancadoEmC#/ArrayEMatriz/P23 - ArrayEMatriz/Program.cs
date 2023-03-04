@@ -19,10 +19,7 @@ class Program
             {
                 Console.WriteLine("Elemento não é par, valor: " + elem[i]);
                 break;
-            } else
-            {
-                Console.WriteLine("Todos os elementos são pares!");
-            }
+            } 
         }
 
         Console.WriteLine("Aplicação finalizada, pressione enter para continuar...");

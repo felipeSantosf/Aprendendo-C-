@@ -1,0 +1,15 @@
+D:\C#\AvancadoEmC#\ArrayEMatriz\P29 - ArrayEMatriz\bin\Debug\net6.0\P29 - ArrayEMatriz.exe
+D:\C#\AvancadoEmC#\ArrayEMatriz\P29 - ArrayEMatriz\bin\Debug\net6.0\P29 - ArrayEMatriz.deps.json
+D:\C#\AvancadoEmC#\ArrayEMatriz\P29 - ArrayEMatriz\bin\Debug\net6.0\P29 - ArrayEMatriz.runtimeconfig.json
+D:\C#\AvancadoEmC#\ArrayEMatriz\P29 - ArrayEMatriz\bin\Debug\net6.0\P29 - ArrayEMatriz.dll
+D:\C#\AvancadoEmC#\ArrayEMatriz\P29 - ArrayEMatriz\bin\Debug\net6.0\P29 - ArrayEMatriz.pdb
+D:\C#\AvancadoEmC#\ArrayEMatriz\P29 - ArrayEMatriz\obj\Debug\net6.0\P29 - ArrayEMatriz.csproj.AssemblyReference.cache
+D:\C#\AvancadoEmC#\ArrayEMatriz\P29 - ArrayEMatriz\obj\Debug\net6.0\P29 - ArrayEMatriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\AvancadoEmC#\ArrayEMatriz\P29 - ArrayEMatriz\obj\Debug\net6.0\P29 - ArrayEMatriz.AssemblyInfoInputs.cache
+D:\C#\AvancadoEmC#\ArrayEMatriz\P29 - ArrayEMatriz\obj\Debug\net6.0\P29 - ArrayEMatriz.AssemblyInfo.cs
+D:\C#\AvancadoEmC#\ArrayEMatriz\P29 - ArrayEMatriz\obj\Debug\net6.0\P29 - ArrayEMatriz.csproj.CoreCompileInputs.cache
+D:\C#\AvancadoEmC#\ArrayEMatriz\P29 - ArrayEMatriz\obj\Debug\net6.0\P29 - ArrayEMatriz.dll
+D:\C#\AvancadoEmC#\ArrayEMatriz\P29 - ArrayEMatriz\obj\Debug\net6.0\refint\P29 - ArrayEMatriz.dll
+D:\C#\AvancadoEmC#\ArrayEMatriz\P29 - ArrayEMatriz\obj\Debug\net6.0\P29 - ArrayEMatriz.pdb
+D:\C#\AvancadoEmC#\ArrayEMatriz\P29 - ArrayEMatriz\obj\Debug\net6.0\P29 - ArrayEMatriz.genruntimeconfig.cache
+D:\C#\AvancadoEmC#\ArrayEMatriz\P29 - ArrayEMatriz\obj\Debug\net6.0\ref\P29 - ArrayEMatriz.dll
