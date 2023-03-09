@@ -9,11 +9,24 @@ namespace ByteBank.Conta
 {
     public class ContaCorrente
     {
-        public int numero_agencia;
-        public string conta;
-        public double saldo = 100;
+        public static int quantidadeContasCriadas { get; private set; }    
+        public string Numero_Conta { get; set; }
 
-        public Cliente titular;
+        private int numero_agencia;
+        public int Numero_agencia
+        {
+            get { return this.numero_agencia; }
+            set
+            {
+                if (value > 0)
+                    this.numero_agencia = value;
+            }
+        }
+        public string Conta { get; set; }
+        private double saldo = 100;
+        
+
+        public Cliente titular { get; set; }
 
         public void Depositar(double valor)
         {
@@ -46,12 +59,35 @@ namespace ByteBank.Conta
             }
         }
 
+        public void DefinirSaldo(double valor)
+        {
+            if (valor < 0)
+            {
+                return;
+            }
+            else
+            {
+                this.saldo += valor;
+            }
+        }
+
+        public double ObterSaldo()
+        {
+            return this.saldo;
+        }
         public void exibirInformacoesConta()
         {
-            Console.WriteLine("Número da agência: " + numero_agencia);
-            Console.WriteLine("Número da conta: " + conta);
-            Console.WriteLine("Titular: " + titular);
-            Console.WriteLine("Saldo: " + saldo);
+            Console.WriteLine("Número da agência: " + this.Numero_agencia);
+            Console.WriteLine("Número da conta: " + this.Conta);
+            Console.WriteLine("Titular: " + this.titular);
+            Console.WriteLine("Saldo: " + this.saldo);
+        }
+
+        public ContaCorrente(int numero_agencia, string conta) 
+        {
+            this.Numero_agencia = numero_agencia;
+            this.Conta = conta;
+            quantidadeContasCriadas++;
         }
     }
 }

@@ -64,32 +64,54 @@ using ByteBank.Titular;
 
 
 
-Cliente cliente = new Cliente();
-cliente.nome = "Felipe José";
-cliente.CPF = "1234568903";
-cliente.profissao = "Frentista";
-
-ContaCorrente conta = new ContaCorrente();
-conta.titular = cliente;
-conta.conta = "1342-X";
-conta.numero_agencia = 1;
-conta.saldo = 100;
-
-Console.WriteLine("Titular = " + conta.titular.nome);
-Console.WriteLine("CPF = " + conta.titular.CPF);
-Console.WriteLine("Profissao = " + conta.titular.profissao);
-Console.WriteLine("N° Conta = " + conta.conta);
-Console.WriteLine("Saldo = " + conta.saldo);
-Console.WriteLine("N° agência = " + conta.numero_agencia);
+Cliente cliente = new Cliente("Felipe José", "1234568903", "Frentista");
+Console.WriteLine(cliente.nome);
+Console.WriteLine(cliente.CPF);
+Console.WriteLine(cliente.profissao);
+Console.WriteLine(Cliente.quantidadeClientes);
+Console.WriteLine("-------------");
 
 
-ContaCorrente conta2 = new ContaCorrente();
-conta2.titular = new Cliente();
-conta2.titular.nome = "Maria Joaquina";
-conta2.titular.profissao = "Analista";
-conta2.titular.CPF = "8473269821";
-conta2.conta = "9999-X";
-conta2.numero_agencia = 89;
-conta2.saldo = 900;
+Cliente cliente2 = new Cliente("Felipe José", "1234568903", "Frentista");
+Console.WriteLine(cliente2.nome);
+Console.WriteLine(cliente2.CPF);
+Console.WriteLine(cliente2.profissao);
+Console.WriteLine(Cliente.quantidadeClientes);
+Console.WriteLine("-------------");
 
-Console.WriteLine(conta2.titular.nome);
+//ContaCorrente conta = new ContaCorrente();
+//conta.titular = cliente;
+//conta.Numero_Conta = "1342-X";
+//conta.numero_agencia = 1;
+//conta.DefinirSaldo(100);
+
+//Console.WriteLine("Titular = " + conta.titular.nome);
+//Console.WriteLine("CPF = " + conta.titular.CPF);
+//Console.WriteLine("Profissao = " + conta.titular.profissao);
+//Console.WriteLine("N° Conta = " + conta.conta);
+//Console.WriteLine("Saldo = " + conta.ObterSaldo());
+//Console.WriteLine("N° agência = " + conta.numero_agencia);
+
+
+//ContaCorrente conta2 = new ContaCorrente();
+//conta2.titular = new Cliente();
+//conta2.titular.nome = "Maria Joaquina";
+//conta2.titular.profissao = "Analista";
+//conta2.titular.CPF = "8473269821";
+//conta2.conta = "9999-X";
+//conta2.numero_agencia = 89;
+//conta2.DefinirSaldo(900);
+
+//Console.WriteLine(conta2.titular.nome);
+
+ContaCorrente conta4 = new ContaCorrente(2,"456-X");
+conta4.DefinirSaldo(500);
+Console.WriteLine(ContaCorrente.quantidadeContasCriadas);
+
+
+
+ContaCorrente conta5 = new ContaCorrente(2, "456-X");
+conta4.DefinirSaldo(500);
+Console.WriteLine(ContaCorrente.quantidadeContasCriadas);
+
+// propriedade/ método estático é vinculada a classe e não ao objeto
