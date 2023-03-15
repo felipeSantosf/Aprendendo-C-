@@ -1,0 +1,15 @@
+D:\C#\OO\OperacoesMatematicas\OperacoesMatematicas\bin\Debug\net6.0\OperacoesMatematicas.exe
+D:\C#\OO\OperacoesMatematicas\OperacoesMatematicas\bin\Debug\net6.0\OperacoesMatematicas.deps.json
+D:\C#\OO\OperacoesMatematicas\OperacoesMatematicas\bin\Debug\net6.0\OperacoesMatematicas.runtimeconfig.json
+D:\C#\OO\OperacoesMatematicas\OperacoesMatematicas\bin\Debug\net6.0\OperacoesMatematicas.dll
+D:\C#\OO\OperacoesMatematicas\OperacoesMatematicas\bin\Debug\net6.0\OperacoesMatematicas.pdb
+D:\C#\OO\OperacoesMatematicas\OperacoesMatematicas\obj\Debug\net6.0\OperacoesMatematicas.csproj.AssemblyReference.cache
+D:\C#\OO\OperacoesMatematicas\OperacoesMatematicas\obj\Debug\net6.0\OperacoesMatematicas.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\OO\OperacoesMatematicas\OperacoesMatematicas\obj\Debug\net6.0\OperacoesMatematicas.AssemblyInfoInputs.cache
+D:\C#\OO\OperacoesMatematicas\OperacoesMatematicas\obj\Debug\net6.0\OperacoesMatematicas.AssemblyInfo.cs
+D:\C#\OO\OperacoesMatematicas\OperacoesMatematicas\obj\Debug\net6.0\OperacoesMatematicas.csproj.CoreCompileInputs.cache
+D:\C#\OO\OperacoesMatematicas\OperacoesMatematicas\obj\Debug\net6.0\OperacoesMatematicas.dll
+D:\C#\OO\OperacoesMatematicas\OperacoesMatematicas\obj\Debug\net6.0\refint\OperacoesMatematicas.dll
+D:\C#\OO\OperacoesMatematicas\OperacoesMatematicas\obj\Debug\net6.0\OperacoesMatematicas.pdb
+D:\C#\OO\OperacoesMatematicas\OperacoesMatematicas\obj\Debug\net6.0\OperacoesMatematicas.genruntimeconfig.cache
+D:\C#\OO\OperacoesMatematicas\OperacoesMatematicas\obj\Debug\net6.0\ref\OperacoesMatematicas.dll

@@ -1,0 +1,15 @@
+D:\C#\OO\EntendendoClasseCliente\EntendendoClasseCliente\bin\Debug\net6.0\ModuloCliente.exe
+D:\C#\OO\EntendendoClasseCliente\EntendendoClasseCliente\bin\Debug\net6.0\ModuloCliente.deps.json
+D:\C#\OO\EntendendoClasseCliente\EntendendoClasseCliente\bin\Debug\net6.0\ModuloCliente.runtimeconfig.json
+D:\C#\OO\EntendendoClasseCliente\EntendendoClasseCliente\bin\Debug\net6.0\ModuloCliente.dll
+D:\C#\OO\EntendendoClasseCliente\EntendendoClasseCliente\bin\Debug\net6.0\ModuloCliente.pdb
+D:\C#\OO\EntendendoClasseCliente\EntendendoClasseCliente\obj\Debug\net6.0\ModuloCliente.csproj.AssemblyReference.cache
+D:\C#\OO\EntendendoClasseCliente\EntendendoClasseCliente\obj\Debug\net6.0\ModuloCliente.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\OO\EntendendoClasseCliente\EntendendoClasseCliente\obj\Debug\net6.0\ModuloCliente.AssemblyInfoInputs.cache
+D:\C#\OO\EntendendoClasseCliente\EntendendoClasseCliente\obj\Debug\net6.0\ModuloCliente.AssemblyInfo.cs
+D:\C#\OO\EntendendoClasseCliente\EntendendoClasseCliente\obj\Debug\net6.0\ModuloCliente.csproj.CoreCompileInputs.cache
+D:\C#\OO\EntendendoClasseCliente\EntendendoClasseCliente\obj\Debug\net6.0\ModuloCliente.dll
+D:\C#\OO\EntendendoClasseCliente\EntendendoClasseCliente\obj\Debug\net6.0\refint\ModuloCliente.dll
+D:\C#\OO\EntendendoClasseCliente\EntendendoClasseCliente\obj\Debug\net6.0\ModuloCliente.pdb
+D:\C#\OO\EntendendoClasseCliente\EntendendoClasseCliente\obj\Debug\net6.0\ModuloCliente.genruntimeconfig.cache
+D:\C#\OO\EntendendoClasseCliente\EntendendoClasseCliente\obj\Debug\net6.0\ref\ModuloCliente.dll

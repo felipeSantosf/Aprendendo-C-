@@ -1,0 +1,15 @@
+D:\C#\OO\Bytebank_ADM\Bytebank_ADM\bin\Debug\net6.0\Bytebank_ADM.exe
+D:\C#\OO\Bytebank_ADM\Bytebank_ADM\bin\Debug\net6.0\Bytebank_ADM.deps.json
+D:\C#\OO\Bytebank_ADM\Bytebank_ADM\bin\Debug\net6.0\Bytebank_ADM.runtimeconfig.json
+D:\C#\OO\Bytebank_ADM\Bytebank_ADM\bin\Debug\net6.0\Bytebank_ADM.dll
+D:\C#\OO\Bytebank_ADM\Bytebank_ADM\bin\Debug\net6.0\Bytebank_ADM.pdb
+D:\C#\OO\Bytebank_ADM\Bytebank_ADM\obj\Debug\net6.0\Bytebank_ADM.csproj.AssemblyReference.cache
+D:\C#\OO\Bytebank_ADM\Bytebank_ADM\obj\Debug\net6.0\Bytebank_ADM.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\OO\Bytebank_ADM\Bytebank_ADM\obj\Debug\net6.0\Bytebank_ADM.AssemblyInfoInputs.cache
+D:\C#\OO\Bytebank_ADM\Bytebank_ADM\obj\Debug\net6.0\Bytebank_ADM.AssemblyInfo.cs
+D:\C#\OO\Bytebank_ADM\Bytebank_ADM\obj\Debug\net6.0\Bytebank_ADM.csproj.CoreCompileInputs.cache
+D:\C#\OO\Bytebank_ADM\Bytebank_ADM\obj\Debug\net6.0\Bytebank_ADM.dll
+D:\C#\OO\Bytebank_ADM\Bytebank_ADM\obj\Debug\net6.0\refint\Bytebank_ADM.dll
+D:\C#\OO\Bytebank_ADM\Bytebank_ADM\obj\Debug\net6.0\Bytebank_ADM.pdb
+D:\C#\OO\Bytebank_ADM\Bytebank_ADM\obj\Debug\net6.0\Bytebank_ADM.genruntimeconfig.cache
+D:\C#\OO\Bytebank_ADM\Bytebank_ADM\obj\Debug\net6.0\ref\Bytebank_ADM.dll

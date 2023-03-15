@@ -64,20 +64,20 @@ using ByteBank.Titular;
 
 
 
-Cliente cliente = new Cliente("Felipe José", "1234568903", "Frentista");
-Console.WriteLine(cliente.nome);
-Console.WriteLine(cliente.CPF);
-Console.WriteLine(cliente.profissao);
-Console.WriteLine(Cliente.quantidadeClientes);
-Console.WriteLine("-------------");
+//Cliente cliente = new Cliente("Felipe José", "1234568903", "Frentista");
+//Console.WriteLine(cliente.nome);
+//Console.WriteLine(cliente.CPF);
+//Console.WriteLine(cliente.profissao);
+//Console.WriteLine(Cliente.quantidadeClientes);
+//Console.WriteLine("-------------");
 
 
-Cliente cliente2 = new Cliente("Felipe José", "1234568903", "Frentista");
-Console.WriteLine(cliente2.nome);
-Console.WriteLine(cliente2.CPF);
-Console.WriteLine(cliente2.profissao);
-Console.WriteLine(Cliente.quantidadeClientes);
-Console.WriteLine("-------------");
+//Cliente cliente2 = new Cliente("Felipe José", "1234568903", "Frentista");
+//Console.WriteLine(cliente2.nome);
+//Console.WriteLine(cliente2.CPF);
+//Console.WriteLine(cliente2.profissao);
+//Console.WriteLine(Cliente.quantidadeClientes);
+//Console.WriteLine("-------------");
 
 //ContaCorrente conta = new ContaCorrente();
 //conta.titular = cliente;
@@ -104,14 +104,14 @@ Console.WriteLine("-------------");
 
 //Console.WriteLine(conta2.titular.nome);
 
-ContaCorrente conta4 = new ContaCorrente(2,"456-X");
-conta4.DefinirSaldo(500);
-Console.WriteLine(ContaCorrente.quantidadeContasCriadas);
+//ContaCorrente conta4 = new ContaCorrente(2,"456-X");
+//conta4.DefinirSaldo(500);
+//Console.WriteLine(ContaCorrente.quantidadeContasCriadas);
 
 
 
-ContaCorrente conta5 = new ContaCorrente(2, "456-X");
-conta4.DefinirSaldo(500);
-Console.WriteLine(ContaCorrente.quantidadeContasCriadas);
+//ContaCorrente conta5 = new ContaCorrente(2, "456-X");
+//conta4.DefinirSaldo(500);
+//Console.WriteLine(ContaCorrente.quantidadeContasCriadas);
 
 // propriedade/ método estático é vinculada a classe e não ao objeto
