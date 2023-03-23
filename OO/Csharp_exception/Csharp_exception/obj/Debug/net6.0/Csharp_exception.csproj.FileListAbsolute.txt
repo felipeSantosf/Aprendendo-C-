@@ -1,0 +1,15 @@
+D:\C#\OO\Csharp_exception\Csharp_exception\bin\Debug\net6.0\Csharp_exception.exe
+D:\C#\OO\Csharp_exception\Csharp_exception\bin\Debug\net6.0\Csharp_exception.deps.json
+D:\C#\OO\Csharp_exception\Csharp_exception\bin\Debug\net6.0\Csharp_exception.runtimeconfig.json
+D:\C#\OO\Csharp_exception\Csharp_exception\bin\Debug\net6.0\Csharp_exception.dll
+D:\C#\OO\Csharp_exception\Csharp_exception\bin\Debug\net6.0\Csharp_exception.pdb
+D:\C#\OO\Csharp_exception\Csharp_exception\obj\Debug\net6.0\Csharp_exception.csproj.AssemblyReference.cache
+D:\C#\OO\Csharp_exception\Csharp_exception\obj\Debug\net6.0\Csharp_exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\OO\Csharp_exception\Csharp_exception\obj\Debug\net6.0\Csharp_exception.AssemblyInfoInputs.cache
+D:\C#\OO\Csharp_exception\Csharp_exception\obj\Debug\net6.0\Csharp_exception.AssemblyInfo.cs
+D:\C#\OO\Csharp_exception\Csharp_exception\obj\Debug\net6.0\Csharp_exception.csproj.CoreCompileInputs.cache
+D:\C#\OO\Csharp_exception\Csharp_exception\obj\Debug\net6.0\Csharp_exception.dll
+D:\C#\OO\Csharp_exception\Csharp_exception\obj\Debug\net6.0\refint\Csharp_exception.dll
+D:\C#\OO\Csharp_exception\Csharp_exception\obj\Debug\net6.0\Csharp_exception.pdb
+D:\C#\OO\Csharp_exception\Csharp_exception\obj\Debug\net6.0\Csharp_exception.genruntimeconfig.cache
+D:\C#\OO\Csharp_exception\Csharp_exception\obj\Debug\net6.0\ref\Csharp_exception.dll
